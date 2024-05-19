@@ -5,7 +5,7 @@
 
 </div>
 
-## 🚀  Aprendizado de Lógica de programação com Java com Spring
+## 🚀  Aprendizado de programação Java com Spring
 Projeto desenvolvido com base no curso **Java: trabalhando com lambdas, streams e Spring Framework** com o acompnahmento dos professores Jacqueline Oliveira e 
 Iasmin Araújo da escola **ALURA**.
 
